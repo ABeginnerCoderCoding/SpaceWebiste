@@ -1,0 +1,63 @@
+nav{
+    background-color: black;
+}
+nav li{
+    display: inline-block;
+}
+#home :hover{
+    color: red;
+}
+#about :hover{
+    color:orange;
+}
+#faq :hover{
+    color:yellow;
+}
+#spacecrafts :hover{
+    color:rgb(0, 255, 17);
+}
+#planets :hover{
+    color: rgb(0, 174, 255);
+}
+#questions :hover{
+    color: rgb(151, 5, 255)
+}
+
+.header{
+    background-color: pink;
+    color: black;
+}
+.header:hover{
+    box-shadow: 5px 5px 8px #f5db95;
+}
+.table_images{
+    width: auto;
+    height:200px;
+}
+body{
+    background-image: url("image-from-rawpixel-id-7514064-jpeg.jpg");
+    background-size: 100%;
+    font-family: 'DM Sans', sans-serif;
+
+}
+h1,h2{
+    color:white;
+}
+table,a{
+    color: lightblue;
+}
+.topics{
+    background-color: black;
+}
+.links{
+    background-color: orangered;
+    padding: 10px;
+}
+.new_page{
+    background-color: rgb(240, 207, 145);
+    width: 500px;
+    padding: 10px;
+}
+.new_page a{
+    background-color: black;
+}
